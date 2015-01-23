@@ -31,3 +31,15 @@
 [submodule "ROS/ros"]
 	path = ROS/ros
 	url = https://github.com/ros/ros.git
+[submodule "ROS/rosdistro"]
+	path = ROS/rosdistro
+	url = https://github.com/ros/rosdistro.git
+[submodule "nasa-osal"]
+	path = nasa-osal
+	url = https://github.com/nasa/osal.git
+[submodule "angstrom-linux-setup"]
+	path = angstrom-linux-setup
+	url = https://github.com/Angstrom-distribution/setup-scripts.git
+[submodule "busybox"]
+	path = busybox
+	url = git://busybox.net/busybox.git
