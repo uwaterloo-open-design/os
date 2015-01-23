@@ -19,3 +19,6 @@
 [submodule "freertos"]
 	path = freertos
 	url = https://github.com/cjlano/freertos.git
+[submodule "ChibiOS-RT"]
+	path = ChibiOS-RT
+	url = https://github.com/abhishek-kakkar/ChibiOS-RT.git
