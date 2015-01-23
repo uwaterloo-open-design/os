@@ -1,0 +1,21 @@
+[submodule "prex"]
+	path = prex
+	url = https://github.com/AndrewD/prex
+[submodule "nuttx"]
+	path = nuttx
+	url = http://git.code.sf.net/p/nuttx/git
+[submodule "atomthreads"]
+	path = atomthreads
+	url = https://github.com/kelvinlawson/atomthreads.git
+[submodule "F4OS"]
+	path = F4OS
+	url = https://github.com/prattmic/F4OS.git
+[submodule "bitthunder"]
+	path = bitthunder
+	url = https://github.com/jameswalmsley/bitthunder.git
+[submodule "rust-rtos"]
+	path = rust-rtos
+	url = https://github.com/alexchandel/rust-rtos.git
+[submodule "freertos"]
+	path = freertos
+	url = https://github.com/cjlano/freertos.git
