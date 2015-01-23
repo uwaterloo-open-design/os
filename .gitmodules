@@ -22,3 +22,12 @@
 [submodule "ChibiOS-RT"]
 	path = ChibiOS-RT
 	url = https://github.com/abhishek-kakkar/ChibiOS-RT.git
+[submodule "ROS/rosserial"]
+	path = ROS/rosserial
+	url = https://github.com/ros-drivers/rosserial.git
+[submodule "ROS/clearpath-vectornav"]
+	path = ROS/clearpath-vectornav
+	url = https://github.com/clearpathrobotics/vectornav.git
+[submodule "ROS/ros"]
+	path = ROS/ros
+	url = https://github.com/ros/ros.git
